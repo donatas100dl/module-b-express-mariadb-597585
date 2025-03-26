@@ -2,7 +2,6 @@
 node_modules/
 
 # Ignoruoti .env failą (jei jame yra slapta informacija, pvz., duomenų bazės prisijungimo duomenys)
-.env
 
 # Ignoruoti log failus
 *.log
